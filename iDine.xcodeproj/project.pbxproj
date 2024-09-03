@@ -19,6 +19,7 @@
 		CE5479262C86871100A73667 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5479252C86871100A73667 /* Order.swift */; };
 		CE5479282C86E22500A73667 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5479272C86E22500A73667 /* OrderView.swift */; };
 		CE54792A2C86E9BF00A73667 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5479292C86E9BF00A73667 /* MainView.swift */; };
+		CE9EBC1E2C86F692006303E4 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9EBC1D2C86F692006303E4 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		CE5479252C86871100A73667 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		CE5479272C86E22500A73667 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		CE5479292C86E9BF00A73667 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		CE9EBC1D2C86F692006303E4 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				CE54790E2C815FE100A73667 /* Preview Content */,
 				CE5479272C86E22500A73667 /* OrderView.swift */,
 				CE5479292C86E9BF00A73667 /* MainView.swift */,
+				CE9EBC1D2C86F692006303E4 /* CheckoutView.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			files = (
 				CE54790B2C815FE000A73667 /* ContentView.swift in Sources */,
 				CE54792A2C86E9BF00A73667 /* MainView.swift in Sources */,
+				CE9EBC1E2C86F692006303E4 /* CheckoutView.swift in Sources */,
 				CE5479282C86E22500A73667 /* OrderView.swift in Sources */,
 				CE5479242C859E9900A73667 /* ItemDetail.swift in Sources */,
 				CE5479092C815FE000A73667 /* iDineApp.swift in Sources */,
