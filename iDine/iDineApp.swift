@@ -13,7 +13,7 @@ struct iDineApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
                 .environmentObject(order)
             /*
              최상위 view에서 environmentObject 사용해야 의존성 주입 가능
