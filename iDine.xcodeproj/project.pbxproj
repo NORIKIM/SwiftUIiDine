@@ -70,15 +70,15 @@
 			isa = PBXGroup;
 			children = (
 				CE5479082C815FE000A73667 /* iDineApp.swift */,
+				CE5479292C86E9BF00A73667 /* MainView.swift */,
 				CE54790A2C815FE000A73667 /* ContentView.swift */,
+				CE5479272C86E22500A73667 /* OrderView.swift */,
+				CE9EBC1D2C86F692006303E4 /* CheckoutView.swift */,
 				CE54790C2C815FE100A73667 /* Assets.xcassets */,
 				CE5479162C8189E100A73667 /* Helper */,
 				CE54791D2C81936500A73667 /* Menu */,
 				CE54791E2C81937A00A73667 /* Item */,
 				CE54790E2C815FE100A73667 /* Preview Content */,
-				CE5479272C86E22500A73667 /* OrderView.swift */,
-				CE5479292C86E9BF00A73667 /* MainView.swift */,
-				CE9EBC1D2C86F692006303E4 /* CheckoutView.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
